@@ -1,0 +1,612 @@
+{
+  "id": "nubo",
+  "host": false,
+  "checkedAt": "2026-10-21T02:43:40.996Z",
+  "http": [
+    {
+      "locale": "zh",
+      "slug": "",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "about",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "cases",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "updates",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "contact",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "waitlist",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "legal/privacy-and-cookies",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "legal/terms-of-service",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "cases/kitchen",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "cases/family",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "cases/daily-duties",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "cases/housekeeping",
+      "status": 200
+    },
+    {
+      "locale": "zh",
+      "slug": "404",
+      "status": 404,
+      "expectedStatus": 404
+    },
+    {
+      "locale": "en",
+      "slug": "",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "about",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "cases",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "updates",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "contact",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "waitlist",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "legal/privacy-and-cookies",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "legal/terms-of-service",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "cases/kitchen",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "cases/family",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "cases/daily-duties",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "cases/housekeeping",
+      "status": 200
+    },
+    {
+      "locale": "en",
+      "slug": "404",
+      "status": 200
+    }
+  ],
+  "rows": [
+    {
+      "slug": "",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "updates",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "waitlist",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "legal/privacy-and-cookies",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases/kitchen",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "404",
+      "locale": "zh",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "updates",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "waitlist",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "legal/privacy-and-cookies",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases/kitchen",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "404",
+      "locale": "en",
+      "width": 1440,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "updates",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "waitlist",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "legal/privacy-and-cookies",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases/kitchen",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "404",
+      "locale": "zh",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "about",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "updates",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "contact",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "waitlist",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "legal/privacy-and-cookies",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "cases/kitchen",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    },
+    {
+      "slug": "404",
+      "locale": "en",
+      "width": 390,
+      "h1": 1,
+      "overflow": false,
+      "broken": [],
+      "market": false,
+      "filing": false,
+      "hostLogo": false,
+      "fonts": "loaded"
+    }
+  ],
+  "interactions": [
+    {
+      "name": "移动菜单可展开关闭",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "语言切换可打开英文首页",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "联系表单拒绝空值",
+      "passed": true,
+      "value": true
+    },
+    {
+      "name": "有效内容通过本地校验并显示结果",
+      "passed": true,
+      "value": {
+        "passed": true,
+        "status": "校验成功 · 本次演示未发送或保存任何信息"
+      }
+    }
+  ],
+  "errors": [],
+  "failures": [],
+  "rechecks": [
+    {
+      "name": "独立 /404 保留路径返回404且渲染模板演示页",
+      "status": 404,
+      "rendered": true,
+      "passed": true
+    },
+    {
+      "name": "有效内容通过本地校验并显示结果",
+      "passed": true,
+      "status": "校验成功 · 本次演示未发送或保存任何信息"
+    }
+  ]
+}
