@@ -301,7 +301,7 @@ export function SiteShell({ basePath, locale = 'zh', children }: SiteTemplatePag
         <PageScrollbar label={locale === 'zh' ? '页面滚动' : 'Page scroll'} />
         <HostMarketplaceLink href="/templates" className="nb-market-logo" aria-label={locale === 'zh' ? 'Nubo · 模板首页' : 'Nubo · Template home'}>
           <HostLogo light={true} alt="" width="28" height="28" />
-          <span lang="zh-CN">Nubo</span>
+          <span lang="zh-CN"><HostBrandName /></span>
         </HostMarketplaceLink>
       </div>
     </MotionConfig>
