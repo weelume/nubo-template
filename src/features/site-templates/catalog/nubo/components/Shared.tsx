@@ -279,7 +279,7 @@ function Footer({ basePath }: { basePath: string }) {
           <HostMarketplaceLink href="/templates">{t('Nubo：模板市场', 'Nubo: Template marketplace')}</HostMarketplaceLink>
         </div>
       </div>
-      <div className="nb-footer-word" aria-hidden="true">weelume<span>®</span>
+      <div className="nb-footer-word" aria-hidden="true"><HostBrandName /><span>®</span>
       </div>
       <div className="nb-footer-bottom">
         <span>© 2026 {t('Nubo · 产品与故事均为演示', 'Nubo · Illustrative product & stories')}</span>
